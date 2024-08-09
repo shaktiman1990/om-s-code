@@ -1,0 +1,21 @@
+ NOW NEXT TOPIC IS KEY PRACTICES OF XP 
+
+1ST KEY PRACTICE OF XP IS PAIR PROGRAMMING 
+
+IN PAIR PROGRAMMING DEVELPOERS ARE work in pairs, LIKE one writing code while the other reviews it
+ in real-time. This practice helps improve code quality and facilitates knowledge sharing.
+
+2ND KEY PRACTICE OF XP IS TEST DRIVEN DEVELOPMENT 
+
+IN TEST DRIVEN DEVLOPMENT Developers write tests before writing the actual code. 
+ITS ensures that the code meets the requirements and allows for easier detection of bugs early in the development process.
+
+3RD KEYPRACTICE OF XP IS CONTINUOUS INTEGRATION 
+
+IN CONTINUOUS INTEGRATION Code changes are integrated into the main codebase frequently, often multiple times a day.
+ This practice helps TO detect integration issues early and ensures that the software is always in a deployable state.
+
+4TH KEY PRACTICE OF XP IS REFACTORING
+
+IN REFACTORING DEVELOPERS Regularly revising and improving the codebase without changing its external behavior. 
+Refactoring IS helps TO keep the code clean and maintainable
